@@ -1,0 +1,10 @@
+USE gc200310426;
+
+CREATE TABLE users (
+user_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+username VARCHAR(50) NOT NULL,
+password CHAR(128) NOT NULL);
+
+SELECT * FROM users;
+
+SELECT * FROM registrants;
