@@ -15,7 +15,7 @@
 
 <nav class="navbar navbar-default">
     
-    <a href="default.php" title="COMP1006 Web App" class="navbar-brand">
+    <a href="index.php" title="COMP1006 Web App" class="navbar-brand">
         <i class="fa fa-beer fa-2"></i>COMP1006 Web App</a>
     
     <ul class="nav navbar-nav navbar-right">
